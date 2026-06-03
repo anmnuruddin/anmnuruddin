@@ -55,4 +55,4 @@ Brevo (email) · Google Apps Script · cPanel deployment
 Freelance and contract work in civic-tech, nonprofit platforms, and governance technology.
 Supabase architecture · AI integration · bilingual web systems · research data pipelines
 
-📧 anmnuruddin@carononprofit.org · 🌐 [carononprofit.org](https://carononprofit.org)
+📧 anm.nuruddin@gmail.com · 🌐 [carononprofit.org](https://carononprofit.org)
