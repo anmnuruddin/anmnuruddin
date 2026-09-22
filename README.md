@@ -50,9 +50,8 @@ Brevo (email) · Google Apps Script · cPanel deployment
 
 ---
 
-### Available For
+### Focus Areas
 
-Freelance and contract work in civic-tech, nonprofit platforms, and governance technology.
-Supabase architecture · AI integration · bilingual web systems · research data pipelines
+Supabase architecture · AI integration and adoption · bilingual web systems · research data pipelines
 
 📧 anm.nuruddin@gmail.com · 🌐 [carononprofit.org](https://carononprofit.org)
