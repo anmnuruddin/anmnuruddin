@@ -1,8 +1,8 @@
 # A N M Nuruddin
 
-**Civic-tech developer & governance architect — Washington, D.C.**
+**Civic-tech architect & governance architect — Washington, D.C.**
 
-I build data-driven platforms for nonprofits, democracy organizations, and governance research programs. My work sits at the intersection of information systems, political architecture, and civic technology.
+I design data-driven platforms and direct their build through AI-assisted development for nonprofits, democracy organizations, and governance research programs. My work sits at the intersection of information systems, political architecture, and civic technology.
 
 ---
 
